@@ -1,4 +1,8 @@
-bitcolor-chrome-ex
+Bitcolor-chrome-ex
 ==================
 
-chrome extension to show colored balance of standart bitcoin client
+Chrome extension to show colored balance of standart bitcoin client
+
+to install read what google have to say
+
+https://developer.chrome.com/extensions/getstarted.html
